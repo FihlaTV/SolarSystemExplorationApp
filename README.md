@@ -18,17 +18,11 @@ It is based after the Tour Guide App studied during the ABND.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/39020690/43244634-945bb43a-9079-11e8-9a37-72f37a622163.png" width="400">
+<img src="https://user-images.githubusercontent.com/39020690/43244634-945bb43a-9079-11e8-9a37-72f37a622163.png" width="400"><img src="https://user-images.githubusercontent.com/39020690/43244647-9d4652ee-9079-11e8-8b2b-d78abebcc92d.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/39020690/43244647-9d4652ee-9079-11e8-8b2b-d78abebcc92d.png" width="400">
+<img src="https://user-images.githubusercontent.com/39020690/43244655-a304c648-9079-11e8-99b6-ce8690e6cd75.png" width="400"><img src="https://user-images.githubusercontent.com/39020690/43244661-a94218a8-9079-11e8-9138-67d95b93a862.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/39020690/43244655-a304c648-9079-11e8-99b6-ce8690e6cd75.png" width="400">
-
-<img src="https://user-images.githubusercontent.com/39020690/43244661-a94218a8-9079-11e8-9138-67d95b93a862.png" width="400">
-
-<img src="https://user-images.githubusercontent.com/39020690/43244662-adc489f6-9079-11e8-81e4-7d03e0f51168.png" width="400">
-
-<img src="https://user-images.githubusercontent.com/39020690/43244668-b4ab30a8-9079-11e8-97c2-ce12f6223e5f.png" width="400">
+<img src="https://user-images.githubusercontent.com/39020690/43244662-adc489f6-9079-11e8-81e4-7d03e0f51168.png" width="400"><img src="https://user-images.githubusercontent.com/39020690/43244668-b4ab30a8-9079-11e8-97c2-ce12f6223e5f.png" width="400">
 
 <img src="https://user-images.githubusercontent.com/39020690/43244671-b83bcc46-9079-11e8-972a-4f1fa51a10c6.png" width="400">
 
