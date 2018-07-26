@@ -47,7 +47,7 @@ public class Planet {
      * @param sizePlanet          is about the size of the planet
      * @param moonsPlanet         is about the moons of the planet
      * @param ringsPlanet         is about the rings of the planet
-     * @param imageResourceId     is the image associated with the attraction.
+     * @param imageResourceId     is the image associated with the planet.
      */
 
     public Planet(String factsPlanet, String overviewPlanet, String discoveryPlanet, String sizePlanet, String moonsPlanet, String ringsPlanet,int imageResourceId) {
@@ -105,7 +105,7 @@ public class Planet {
     }
 
     /**
-     * Return the image resource ID of the attraction.
+     * Return the image resource ID of the planet.
      */
     public int getImageResourceId() {
         return mImageResourceId;
