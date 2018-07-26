@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Solar system exploration</string>
+    <string name="category_usualplanets">Planets</string>
+    <string name="category_dwarfplanets">Dwarf planets</string>
+    <string name="category_hypothetical">Planet X</string>
+
+    <string name="mercury_facts">Day 59 Earth days \n Year 88 Earth days</string>
+    <string name="mercury_overview">The smallest planet in our solar system and nearest to the Sun.</string>
+    <string name="mercury_discovery">Mercury is named for the swiftest of the Roman gods.</string>
+    <string name="mercury_size">If Earth were the size of a nickel, Mercury would be about as big as a blueberry.</string>
+    <string name="mercury_moons">Mercury has no moon.</string>
+    <string name="mercury_rings">Mercury has no rings.</string>
+
+    <string name="venus_facts">Day 243 Earth days \n Year 225 Earth days</string>
+    <string name="venus_overview">Venus is the second planet from the Sun and our closest planetary neighbor.</string>
+    <string name="venus_discovery">Venus is named for the ancient Roman goddess of love and beauty.</string>
+    <string name="venus_size">Venus is slightly smaller than Earth.</string>
+    <string name="venus_moons">Venus has no moon.</string>
+    <string name="venus_rings">Venus has no rings.</string>
+
+    <string name="earth_facts">Day 23.9 hours \n Year 365.25 days</string>
+    <string name="earth_overview">Our home planet is the third planet from the Sun.</string>
+    <string name="earth_discovery">The name Earth is a Germanic word, which simply means “the ground.”</string>
+    <string name="earth_size">Earth is the fifth largest planet overall.</string>
+    <string name="earth_moons">Earth has a single moon.</string>
+    <string name="earth_rings">Earth has no rings.</string>
+
+    <string name="mars_facts">Day 24.6 hours \n Year 687 Earth days</string>
+    <string name="mars_overview">The fourth planet from the Sun, Mars is a dusty, cold, desert world with a very thin atmosphere.</string>
+    <string name="mars_discovery">Mars was named by the Romans for their god of war because its reddish color was reminiscent of blood.</string>
+    <string name="mars_size">If Earth were the size of a nickel, Mars would be about as big as a raspberry.</string>
+    <string name="mars_moons">Mars has two small moons, Phobos and Deimos.</string>
+    <string name="mars_rings">Mars has no rings.</string>
+
+    <string name="jupiter_facts">Day 9.92496 hours \n Year 4,333 Earth days</string>
+    <string name="jupiter_overview">Jupiter is the fifth planet from our Sun and is, by far, the largest planet in the solar system.</string>
+    <string name="jupiter_discovery">Jupiter is named for the king of the ancient Roman gods.</string>
+    <string name="jupiter_size">If Earth were the size of a nickel, Jupiter would be about as big as a basketball.</string>
+    <string name="jupiter_moons">Jupiter forms a kind of miniature solar system. Jupiter has 53 confirmed moons, as well as 14 provisional ones. Its four largest moons are Io, Europa, Ganymede and Callisto.</string>
+    <string name="jupiter_rings">Its rings are composed of small, dark particles and are difficult to see except when backlit by the Sun</string>
+
+    <string name="saturn_facts">Day 10.7 hours \n Year 29 Earth years</string>
+    <string name="saturn_overview">Saturn is the sixth planet from the Sun and the second largest planet in our solar system. It has a dazzling system of icy rings.</string>
+    <string name="saturn_discovery">The planet is named for the Roman god of agriculture and wealth.</string>
+    <string name="saturn_size">If Earth were the size of a nickel, Saturn would be about as big as a volleyball.</string>
+    <string name="saturn_moons">Saturn has 53 confirmed moons with nine additional provisional moons.</string>
+    <string name="saturn_rings">Its rings are thought to be pieces of comets, asteroids or shattered moons that broke up before they reached the planet.</string>
+
+    <string name="uranus_facts">Day 17 hours 14 minutes \n Year 84 Earth years</string>
+    <string name="uranus_overview">Saturn is the seventh planet from the Sun with the third largest diameter in our solar system.</string>
+    <string name="uranus_discovery">The planet is named for the Greek god of the sky.</string>
+    <string name="uranus_size">If Earth was the size of a nickel, Uranus would be about as big as a softball.</string>
+    <string name="uranus_moons">Uranus has 27 known moons.</string>
+    <string name="uranus_rings">Uranus has two sets of rings.</string>
+
+    <string name="neptune_facts">Day 16 hours \n Year 165 Earth years</string>
+    <string name="neptune_overview">Neptune is the eighth and most distant planet in our solar system.</string>
+    <string name="neptune_discovery">The planet is named after the Roman god of the sea.</string>
+    <string name="neptune_size">If Earth were the size of a nickel, Neptune would be about as big as a baseball.</string>
+    <string name="neptune_moons">Neptune has 13 known moons and one provisional moon.</string>
+    <string name="neptune_rings">Neptune has five known rings.</string>
+
+    <string name="pluto_facts">Day 153 hours \n Year 248 Earth years</string>
+    <string name="pluto_overview">Pluto was long considered the ninth planet of our solar system.</string>
+    <string name="pluto_discovery">Pluto is named after the Roman god of the underworld.</string>
+    <string name="pluto_size">If Earth was the size of a nickel, Pluto would be about as big as a popcorn kernel.</string>
+    <string name="pluto_moons">Pluto has five known moons: Charon, Nix, Hydra, Kerberos and Styx.</string>
+    <string name="pluto_rings">Pluto has no rings.</string>
+
+    <string name="ceres_facts">Day 9 hours \n Year 4.6 Earth years</string>
+    <string name="ceres_overview">Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter.</string>
+    <string name="ceres_discovery">Ceres is named for the Roman goddess of corn and harvests.</string>
+    <string name="ceres_size">If Earth was the size of a nickel, Ceres would be about as big as a poppy seed.</string>
+    <string name="ceres_moons">Ceres has no moons.</string>
+    <string name="ceres_rings">Ceres does not have any rings.</string>
+
+    <string name="makemake_facts">Day 2.5 hours \n Year 305.34 Earth years</string>
+    <string name="makemake_overview">Along with fellow dwarf planets Pluto, Eris and Haumea, Makemake is located in the Kuiper Belt, a region outside the orbit of Neptune.</string>
+    <string name="makemake_discovery">Makemake was named after the Rapanui god of fertility.</string>
+    <string name="makemake_size">If Earth was the size of a nickel, Makemake would be about as big as a mustard seed.</string>
+    <string name="makemake_moons">Makemake has one provisional moon.</string>
+    <string name="makemake_rings">Makemake does not have any rings.</string>
+
+    <string name="haumea_facts">Day 4 hours \n Year 285 Earth years</string>
+    <string name="haumea_overview">Haumea resides in the Kuiper belt.</string>
+    <string name="haumea_discovery">Haumea was named after the Hawaiian goddess of fertility.</string>
+    <string name="haumea_size">If Earth was the size of a nickel, Haumea would be about as big as a sesame seed.</string>
+    <string name="haumea_moons">Haumea has two known moons: Namaka is the inner moon, and Hi\'iaka is the outer moon.</string>
+    <string name="haumea_rings">Haumea does not have any rings.</string>
+
+    <string name="eris_facts">Day 25.9 hours \n Year 557 Earth years</string>
+    <string name="eris_overview">Eris resides in the Kuiper belt.</string>
+    <string name="eris_discovery">Eris is named for the ancient Greek goddess of discord and strife.</string>
+    <string name="eris_size">If Earth was the size of a nickel, Eris would be about as big as a popcorn kernel.</string>
+    <string name="eris_moons">Eris has a very small moon called Dysnomia.</string>
+    <string name="eris_rings">Eris does not have any rings.</string>
+
+    <string name="planetx_facts">Planet X has not yet been discovered</string>
+    <string name="planetx_overview">The prediction is based on mathematical modeling.</string>
+    <string name="planetx_discovery">A large, previously undiscovered planet may be hiding far beyond Pluto.</string>
+    <string name="planetx_size">The gravity of this potential planet might explain the unusual orbits of those Kuiper objects.</string>
+    <string name="planetx_moons">Any object that far away from the sun will be very faint and hard to detect.</string>
+    <string name="planetx_rings">New research that provides evidence of a giant planet tracing an unusual, elongated orbit in the outer solar system.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

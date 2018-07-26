@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:id="@+id/text_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photoImageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerInside" />
+
+            <TextView
+                android:id="@+id/factsTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Interesting facts" />
+
+            <TextView
+                android:id="@+id/overviewTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="overview and other stuff" />
+
+            <TextView
+                android:id="@+id/discoveryTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="about the discovery" />
+
+            <TextView
+                android:id="@+id/sizeTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="about the size" />
+
+            <TextView
+                android:id="@+id/moonsTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="about the moons" />
+
+            <TextView
+                android:id="@+id/ringsTextView"
+                style="@style/attractionParagraph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="about the rings" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

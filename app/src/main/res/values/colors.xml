@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22223f</color>
+    <color name="colorPrimaryDark">#22223f</color>
+    <color name="tan_background">#22223f</color>
+    <color name="colorAccent">#ff0033</color>
+    <color name="category_usualplanets">#00e676</color>
+    <color name="category_dwarfplanets">#fdd835</color>
+    <color name="category_hypothetical">#10b6f7</color>
+</resources>
