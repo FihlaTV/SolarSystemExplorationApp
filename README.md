@@ -1,6 +1,5 @@
 # SolarSystemExplorationApp :earth_americas: :rocket:
 :mortar_board: This short skill development project was done after graduating from the **Android Basics Nanodegree by Google** at [Udacity](https://www.udacity.com).
-It is based after the Tour Guide App studied during the ABND. 
 
 ## Android Goodies
 
