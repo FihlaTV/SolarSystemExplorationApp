@@ -1,5 +1,5 @@
 # SolarSystemExplorationApp :earth_americas: :rocket:
-:mortar_board: This short skill development project was done after graduating from the **Android Basics Nanodegree by Google** at [Udacity](https://www.udacity.com).
+:mortar_board: This short skill development project was done after graduating with the **Android Basics Nanodegree by Google** at [Udacity](https://www.udacity.com).
 
 ## Android Goodies
 
