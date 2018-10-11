@@ -25,6 +25,8 @@
 
 <img src="https://user-images.githubusercontent.com/39020690/43244671-b83bcc46-9079-11e8-972a-4f1fa51a10c6.png" width="400">
 
+**This app code is provided in the hope that it will be useful to other coding students,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
+
 *Kind notice: Students are responsible for their integrity. I allow students to read my code for reference, but submitting the code and artwork as part of a coursework examination could be a clear case of cheating and plagiarism. These students could be in violation of the Code of Student Conduct, which may have dramatic consequences such as getting expelled. Copyright (c) 2018 Sabrina Palis.*
 
 
